@@ -1,1 +1,0 @@
-Travaux pratiques pour la formation GIT.
