@@ -1,1 +1,1 @@
-Travaux pratiques pour la formation GIT.
+Les tâches techniques à effectuer sont dans le fichier TODO.txt.
