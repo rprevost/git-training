@@ -4,7 +4,7 @@ Sites à scanner :
  - eurolines.fr 
  - eurostar.com 
 
-Langage de programmation de l'application : 
+Langage de programmation de l'application :
 Java 
 
 Serveur d'application : 
@@ -18,3 +18,7 @@ Technologies web :
  - Wicket 
  - Struts2
  - JSF
+
+Application lourde
+Technologie Swing
+
